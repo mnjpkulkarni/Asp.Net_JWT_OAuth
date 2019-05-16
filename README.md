@@ -6,3 +6,6 @@ Instructions
 2. You can run this project in the localhost.
 3. obtain the access token by hitting the endpoint "/api/token" along with sending a form JSON body with username as "manoj" and password as "password".
 4. You need to send this token by adding it to the header as Bearer token and hit the endpoint "/api/cricketers" to obtain the data.
+
+
+REFER TO THE SCREENSHOTS FOR FURTHER ASSISTANCE.
