@@ -9,3 +9,11 @@ Instructions
 
 
 REFER TO THE SCREENSHOTS FOR FURTHER ASSISTANCE.
+
+
+References
+
+https://www.red-gate.com/simple-talk/dotnet/net-development/jwt-authentication-microservices-net/
+
+
+http://blogs.quovantis.com/json-web-token-jwt-with-web-api/
