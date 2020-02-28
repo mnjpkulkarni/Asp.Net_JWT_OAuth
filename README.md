@@ -17,3 +17,6 @@ https://www.red-gate.com/simple-talk/dotnet/net-development/jwt-authentication-m
 
 
 http://blogs.quovantis.com/json-web-token-jwt-with-web-api/
+
+
+https://code-adda.com/2019/01/jwt-authentication-with-asp-net-web-api/
